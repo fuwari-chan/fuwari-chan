@@ -13,13 +13,14 @@ A static blog template built with [Astro](https://astro.build).
 - [x] Light / dark mode
 - [x] Customizable theme colors & banner
 - [x] Responsive design
-- [x] Comments
+- [x] Comments Twiko free
+- [x] Live2d
 - [x] Search
 - [ ] TOC
 
 ## 🚀 How to Use
 
-1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
+1. [Generate a new repository](https://github.com/fuwari-chan/fuwari-chan/generate) from this template or fork this repository.
 2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.  
    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
 3. Edit the config file `src/config.ts` to customize your blog.
