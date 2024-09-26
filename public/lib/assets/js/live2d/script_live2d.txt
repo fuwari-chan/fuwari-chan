@@ -1,0 +1,75 @@
+<!-- LIVE2D ONLINE LIB 🫣
+
+<script src="https://l2dwidget.js.org/lib/L2Dwidget.min.js" text="text/javascript" />
+    <script type="text/javascript">
+      L2Dwidget
+        .init({
+           model: {
+               jsonPath: "https://unpkg.com/live2d-widget-model-shizuku@1.0.5/assets/shizuku.model.json"},
+            display: {
+                "position": "right",
+                "width": 150,
+                "height": 300,
+                "hOffset": -20,
+                "vOffset": 0
+            },
+           mobile: { 
+               show: true,
+               scale: 1
+           },
+          dialog: {
+            enable: true,
+            script: {
+              'every idle 10s': '$hitokoto$',
+              'hover .star': '星星在天上而你在我心里 (*/ω＼*)',
+              'tap body': '哎呀！别碰我！',
+              'tap face': '人家已经不是小孩子了！'
+            }
+          }
+        });
+    </script>
+ END -->
+ 
+ 
+     <!-- live2D 😘-->
+
+<script src="/src/assets/js/live2d/js/L2Dwidget.0.min.js" type="text/javascript" />
+
+<script src="/src/assets/js/live2d/js/L2Dwidget.min.js" type="text/javascript" />
+
+    <script type="text/javascript">
+      L2Dwidget
+        .init({
+           model: {
+
+           jsonPath: "/src/assets/js/live2d/model/rem/model.json"},
+           
+            display: {
+                "position": "left",
+                "width": 250,
+                "height": 400,
+                "hOffset": -20,
+                "vOffset": -60
+            },
+           mobile: { 
+               show: true,
+               scale: 1
+           },
+           desktop: { 
+               show: true,
+               scale: 1
+           },
+          dialog: {
+            enable: true,
+            script: {
+              'every idle 10s': '$hitokoto$',
+              'hover .star': 'Halloo 😍',
+              'tap body': ' Yay Omess 🤬 Otak Mesum ,aku dah ada yang poenya aa thanvank 🤭',
+              'tap face': '     Apa sih 🫣 sayank 😘 ！'
+            }
+          }
+        });
+    </script>
+    
+
+ 

@@ -1,0 +1,25 @@
+<!-- Star floating twitter Bird -->
+<script type="text/javascript" src="src/assets/js/burung/burung.js"></script>
+<script type="text/javascript">
+var birdSprite="src/assets/js/images/cyan bird.png";
+var targetElems=new Array("img","hr","table","td","div","input","textarea","button","select","ul","ol","li","h1","h2","h3",
+"h4","p","code","object","a","b","strong","span");
+var twitterAccount = "http://twitter.com/cara_zain";
+var tweetThisText = "Twitter - UserID http://carazain.blogspot.com/";
+tripleflapInit();
+</script>
+<!-- End floating twitter Bird -->
+
+script 2
+
+<!-- Bird Tweet 🐦-->
+<script type="text/javascript" src="src/assets/js/burung/burung.js"></script>
+<script type="text/javascript">
+var birdSprite="src/assets/js/images/cyan bird.png";
+var targetElems=new Array("img","hr","table","td","div","input","textarea","button","select","ul","ol","li","h1","h2","h3",
+"h4","p","code","object","a","b","strong","span");
+var twitterAccount = "#";
+var tweetThisText = "Fuwari 😁";
+tripleflapInit()
+</script>
+<!-- END -->
