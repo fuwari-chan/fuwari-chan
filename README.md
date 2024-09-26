@@ -15,6 +15,7 @@ A static blog template built with [Astro](https://astro.build).
 - [x] Responsive design
 - [x] Comments Twiko free
 - [x] Live2d
+- [x] Sakura Rain 🌸 animation
 - [x] Search
 - [ ] TOC
 
